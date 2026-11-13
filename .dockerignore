@@ -1,0 +1,14 @@
+.git
+.github
+.env
+.env.*
+!.env.example
+node_modules
+vendor
+tests
+docker-compose*.yml
+README.md
+.phpunit.result.cache
+*.log
+.DS_Store
+Thumbs.db
